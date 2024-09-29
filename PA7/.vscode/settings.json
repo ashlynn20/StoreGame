@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "/s/bach/b/class/cs214/public/lib/log4j-core-2.12.4.jar",
+    "/s/bach/b/class/cs214/public/lib/log4j-api-2.12.4.jar",
+    "/s/bach/b/class/cs214/public/lib/junit-platform-console-standalone-1.9.3.jar"
+  ]
+}
